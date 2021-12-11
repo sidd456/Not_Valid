@@ -107,7 +107,12 @@ body {
     }  
         .left-second {
             width: 70vw;
-        }    
+        }  
+        
+        .bottom {
+            position: absolute;
+            top: 850px;
+        }
 
 
 }
